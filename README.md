@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryam Elkady</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
+- 🌱 I’m currently learning **Computer Vision**
+
 - 📫 How to reach me **mariamelkady3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
